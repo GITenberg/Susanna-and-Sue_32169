@@ -1,0 +1,50 @@
+_repo: Susanna-and-Sue_32169
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Wyeth, N. C. (Newell Convers)
+    aliases:
+    - Wyeth, N.C.
+    - Wyeth, Newell Convers
+    birthdate: 1882
+    deathdate: 1945
+    gutenberg_agent_id: '32841'
+    url: http://www.gutenberg.org/2009/agents/32841
+    wikipedia: http://en.wikipedia.org/wiki/N._C._Wyeth
+  - agent_name: Stephens, Alice Barber
+    alias: Barber, Alice
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '7549'
+    url: http://www.gutenberg.org/2009/agents/7549
+covers:
+- cover_type: archival
+  image_path: 32169-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Riggs, Kate Douglas Smith Wiggin
+    - Riggs, George Christopher, Mrs.
+    - Smith, Kate Douglas
+    - Wiggin, Samuel Bradley, Mrs.
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+description: ''
+gutenberg_issued: '2010-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Shakers -- Fiction'
+- !lcsh 'Families -- Fiction'
+title: Susanna and Sue
+url: http://www.gutenberg.org/ebooks/32169
